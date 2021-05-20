@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 este es un archivo 5 segunda modificacion
+=======
+este es un archivo 5
+archivo modificado
+>>>>>>> 1a473725fc2883723c06a336a6af8fad1db7c5eb
